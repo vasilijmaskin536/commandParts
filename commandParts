@@ -1,0 +1,3 @@
+std::vector<std::string> commandParts(std::
+istream_iterator<std::string>{iss}, 
+std::istream_iterator<std::string>());
